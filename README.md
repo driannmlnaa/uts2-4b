@@ -11,9 +11,9 @@ Mahasiswa mengisi, memodifikasi, dan mengembangkan kode ini sesuai topik kelompo
 
 | Nama | NIM | Tugas Utama |
 |------|-----|-------------|
-| ...  | ... | ...         |
-| ...  | ... | ...         |
-| ...  | ... | ...         |
+| Irham Najib A.Q.  | 2443110 | ...         |
+| Muhammad Raufa H.W.  | 244311052 | ...         |
+| Andrian Maulana  | 244311036 | ...         |
 
 **Topik Domain:** *(isi: Akademik / Kesehatan / Hukum / Bisnis / Pertanian / Teknologi)*  
 **Stack yang Dipilih:** *(isi: LangChain / LlamaIndex / From Scratch)*  
